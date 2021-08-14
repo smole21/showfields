@@ -145,12 +145,12 @@ select {
 .live h1{
 	padding-bottom: 50px;
 	font-family: Ogg;
-	font-size: 80px;
+	font-size: 56px;
 	font-weight: 100;
 }
 
 .upcoming{
-	height: 220px;
+	height: 200px;
 }
 
 .upcoming .live_curation{
@@ -475,6 +475,7 @@ input[type=submit] {
 			font-size: 26px;
 		}
 		.upcoming{
+			height: 160px;
 			padding-top: 24px;
 		}
 		.live_curation{
@@ -566,7 +567,7 @@ input[type=submit] {
 			justify-content: start;
 			height: 450px;
 			padding: 0;
-			top:200px
+			top:200px;
 			margin: 0;
 		}
 		.subs{
