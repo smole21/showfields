@@ -149,7 +149,9 @@ select {
 	font-weight: 100;
 }
 
-
+.upcoming{
+	height: 220px;
+}
 
 .upcoming .live_curation{
 position: relative;
